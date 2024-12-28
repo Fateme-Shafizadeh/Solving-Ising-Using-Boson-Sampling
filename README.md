@@ -1,7 +1,7 @@
-#Solving an Ising Model Problem using Gaussian Boson Sampling
+Solving an Ising Model Problem using Gaussian Boson Sampling
 
 This project focuses on solving an optimization problem based on the Ising model, represented as:
-
+![IMAGE_DESCRIPTION](ising.png)
 
 Tasks:
 Part (a): Gaussian Boson Sampling (GBS)
